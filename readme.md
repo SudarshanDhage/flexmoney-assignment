@@ -6,11 +6,10 @@ This repo contains code for internship@flexmoney 2023 Assignment
 - server : contains backend APIs made using Node.js
 
 ### Links
-Frontend hosted at: https://flexmoney-assignment-client.vercel.app/
+Frontend hosted at: https://flexmoney-assignment-ifuo.vercel.app/
 
 
 
-Backend hosted at: https://flexmoney-assignment-server.vercel.app/
 
 Note: Thunder client collection file is provided in the repo for testing purpose
 
